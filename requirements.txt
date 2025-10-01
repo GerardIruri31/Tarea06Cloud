@@ -1,0 +1,3 @@
+boto3==1.34.143
+mysql-connector-python==8.4.0
+python-dotenv==1.0.1
